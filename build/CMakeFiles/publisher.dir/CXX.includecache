@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bmartinez/workspace/mqtt/src/publisher.cpp
+mqtt/client.h
+-
+iostream
+-
+chrono
+-
+thread
+-
+

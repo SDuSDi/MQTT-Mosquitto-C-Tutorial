@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/consumer.dir/src/consumer.cpp.o  -o consumer  -lpaho-mqtt3a -lpaho-mqttpp3 
