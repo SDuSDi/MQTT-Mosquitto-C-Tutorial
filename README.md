@@ -1,6 +1,5 @@
 # MQTT Mosquitto C Tutorial
 
-<!-- This Project contains my hopes and dreams. Please, save them. -->
 This project contains the code for the tutorial about MQTT and Mosquitto made during my curricular end-of-studies internship at CATEC.
 ![image](assets/mqtt.png)
 
@@ -8,9 +7,6 @@ This project contains the code for the tutorial about MQTT and Mosquitto made du
 This, according to Creative Commons, is a photo of Mosquitto. Do whatever you want with it.
 ![image](assets/mosquitto.jpg)
 -->
-
-<!-- Do your best! I will try, README template, I will try. -->
-<!-- I hope its understandable -->
 
 ## Dependencies
 
@@ -62,6 +58,11 @@ sudo apt install wireshark
 
 ## Usage
 
+First of all, cloning the repository is mandatory to continue with the rest of the instructions here.
+```
+git clone https://github.com/SDuSDi/MQTT-Mosquitto-C-Tutorial.git
+cd MQTT-Mosquitto-C-Tutorial
+```
 For the usage of this repository, it is NOT necessary to compile or build the code. If needed, the following commands show how it can be done.
 ```
 cd build/
